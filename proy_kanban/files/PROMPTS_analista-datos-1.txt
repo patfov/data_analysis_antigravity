@@ -1,0 +1,79 @@
+0) Confirmar que la skill se está usando
+Actúa usando la skill "analista-datos". Resume en 5 puntos cómo vas a abordar cualquier petición de análisis de datos (sin hacer análisis todavía).
+
+1) Definir el objetivo de negocio (sin datos)
+Quiero medir la productividad de un equipo usando un tablero Kanban (Pendiente / En progreso / Hecho).
+No tengo datos aún. Ayúdame a definir:
+- qué preguntas de negocio puedo responder
+- qué métricas (KPIs) debería medir
+- qué datos mínimos necesito capturar para poder calcularlas
+Devuélvelo en formato de tabla: Pregunta → Métrica → Datos necesarios.
+
+2) Diseñar el “esquema” de datos
+Diseña un esquema de dataset (columnas) para registrar el ciclo de vida de tareas Kanban.
+Incluye tipos de datos, ejemplos y qué columnas son obligatorias vs opcionales. guarda esta información en un archivo markdown.
+
+3) Generar un dataset ficticio (para poder analizar)
+Genera un dataset de ejemplo de 200 tareas en formato CSV (como texto), todas las columnas que has indicado.
+Asegúrate de que haya datos realistas (fechas coherentes), y algunas tareas incompletas.
+
+4) Pedir limpieza y validación de datos (data quality)
+Usando el CSV que acabas de generar, haz una revisión de calidad de datos:
+- valores faltantes relevantes
+- fechas incoherentes
+- outliers obvios
+- posibles sesgos o limitaciones del dataset
+Devuélveme una lista priorizada de problemas y cómo los corregirías en un archivo markdown
+
+5) Análisis exploratorio (EDA) + métricas base
+Haz un análisis exploratorio del dataset:
+- conteo de tareas por estado y prioridad
+- throughput (tareas completadas por semana)
+- lead time (created_at → completed_at) y cycle time (started_at → completed_at), con medias/medianas
+- identifica 3 insights accionables
+Explica supuestos y limitaciones.
+
+6) Detección de tendencia y cambios (lo que tu skill menciona)
+Detecta si hay tendencias o cambios relevantes en el throughput semanal.
+Si puedes, usa:
+- ratio de crecimiento (media actual vs media base)
+- coeficiente de variación (CV) para estabilidad
+Explica si el sistema parece estable o volátil y por qué.
+
+7) Diseño de umbrales (alertas y criterios)
+Define umbrales prácticos para alertas del equipo:
+- lead time alto
+- demasiadas tareas en "En progreso" (WIP)
+- caída de throughput
+Propón umbrales iniciales y cómo los ajustarías con más datos.
+
+8) Segmentación (por responsable / prioridad)
+Segmenta el rendimiento:
+- por responsable
+- por prioridad
+Identifica diferencias relevantes y explica si son concluyentes o si podrían deberse al azar / tamaño de muestra.
+
+9) A/B testing (simulado, sin datos reales)
+Quiero probar un cambio de proceso: limitar WIP a 3 tareas por persona.
+Diseña un experimento A/B realista para medir impacto:
+- hipótesis
+- métrica primaria y secundarias
+- tamaño de muestra (aproximado) y duración estimada
+- riesgos y cómo evitar sesgos
+
+10) Reporting ejecutivo (storytelling)
+Escribe un resumen ejecutivo (máx. 12 líneas) para un stakeholder no técnico:
+- qué está pasando
+- qué impacto tiene
+- qué recomendaciones accionables propones
+Incluye 1-2 limitaciones importantes del análisis.
+
+11) Pedir “plan de visualización”
+Sugiere un plan de visualización:
+- qué gráficos harías (tipo de gráfico)
+- qué variables usarías en cada uno
+- qué historia cuenta cada gráfico
+Prioriza 5 gráficos máximos.
+
+11) Diseño del Dashboard
+haz los graficos

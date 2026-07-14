@@ -1,0 +1,201 @@
+id_pedido,fecha_pedido,id_cliente,segmento_cliente,categoria_producto,nombre_producto,unidades,precio_unitario_usd,importe_total_usd,metodo_pago,estado_pedido,pais_envio,dias_envio,devuelto
+PED-3000,2027-03-23,CLI-015,Nuevo,Moda,Sudadera Gris,1,49.9,49.9,Tarjeta,Completado,Portugal,2,false
+PED-3001,2027-01-05,CLI-004,Nuevo,Hogar,Lámpara de Escritorio,1,45.0,45.0,Tarjeta,Completado,Portugal,5,false
+PED-3002,2027-03-17,CLI-036,Nuevo,Hogar,Hervidor Eléctrico,1,39.99,39.99,PayPal,Completado,Alemania,2,false
+PED-3003,2027-01-13,CLI-046,Recurrente,Moda,Camiseta Negra,2,15.0,30.0,Tarjeta,Cancelado,Italia,,false
+PED-3004,2027-01-11,CLI-071,Recurrente,Moda,Sudadera Gris,2,49.9,99.8,Tarjeta,Completado,Alemania,2,false
+PED-3005,2027-01-13,CLI-049,Recurrente,Accesorios,Gorra Deportiva,1,18.0,18.0,PayPal,Completado,Alemania,7,false
+PED-3006,2027-03-24,CLI-010,Nuevo,Hogar,Lámpara de Escritorio,1,45.0,45.0,PayPal,Cancelado,Portugal,,false
+PED-3007,2027-01-29,CLI-088,Recurrente,Electrónica,Ratón Inalámbrico,2,25.0,50.0,PayPal,Completado,España,3,false
+PED-3008,2027-03-14,CLI-092,Recurrente,Hogar,Hervidor Eléctrico,1,39.99,39.99,PayPal,Completado,Francia,3,false
+PED-3009,2027-03-10,CLI-034,Recurrente,Accesorios,Gorra Deportiva,1,18.0,18.0,Tarjeta,Completado,España,8,false
+PED-3010,2027-01-15,CLI-020,Nuevo,Accesorios,Funda iPhone,1,19.99,19.99,PayPal,Completado,Portugal,8,false
+PED-3011,2027-03-29,CLI-093,Nuevo,Moda,Pantalón Chino,1,55.0,55.0,PayPal,Completado,España,7,false
+PED-3012,2027-02-03,CLI-065,Nuevo,Electrónica,Tablet 10 pulgadas,2,199.0,398.0,Tarjeta,Completado,Francia,6,false
+PED-3013,2027-03-09,CLI-001,Recurrente,Accesorios,Funda iPhone,1,19.99,19.99,PayPal,Completado,Alemania,3,false
+PED-3014,2027-03-14,CLI-011,Nuevo,Accesorios,Funda iPhone,3,19.99,59.97,Tarjeta,Completado,Italia,6,false
+PED-3015,2027-03-09,CLI-078,Recurrente,Hogar,Lámpara de Techo,2,120.0,240.0,Tarjeta,Completado,Italia,7,false
+PED-3016,2027-02-26,CLI-067,Recurrente,Electrónica,Ratón Inalámbrico,1,25.0,25.0,PayPal,Completado,Portugal,3,false
+PED-3017,2027-01-01,CLI-010,Nuevo,Hogar,Cafetera Italiana,3,34.5,103.5,PayPal,Completado,Francia,4,false
+PED-3018,2027-01-28,CLI-070,Nuevo,Accesorios,Mochila Urbana,2,65.0,130.0,PayPal,Completado,España,7,false
+PED-3019,2027-02-24,CLI-053,Recurrente,Electrónica,Teclado Mecánico,1,89.9,89.9,PayPal,Completado,España,3,false
+PED-3020,2027-03-10,CLI-058,Nuevo,Accesorios,Mochila Urbana,1,65.0,65.0,Tarjeta,Completado,España,5,false
+PED-3021,2027-03-12,CLI-013,Nuevo,Electrónica,Teclado Mecánico,3,89.9,269.7,Tarjeta,Completado,Italia,5,false
+PED-3022,2027-02-21,CLI-008,Nuevo,Accesorios,Funda iPhone,4,19.99,79.96,PayPal,Cancelado,Italia,,false
+PED-3023,2027-02-06,CLI-055,Recurrente,Hogar,Lámpara de Escritorio,1,45.0,45.0,Tarjeta,Completado,Portugal,2,false
+PED-3024,2027-01-08,CLI-007,Recurrente,Hogar,Cafetera Italiana,3,34.5,103.5,Tarjeta,Completado,España,6,false
+PED-3025,2027-01-31,CLI-052,Nuevo,Hogar,Lámpara de Techo,1,120.0,120.0,Tarjeta,Completado,Portugal,6,false
+PED-3026,2027-02-03,CLI-027,Recurrente,Hogar,Set de Sartenes,1,99.0,99.0,PayPal,Completado,España,2,false
+PED-3027,2027-03-14,CLI-013,Nuevo,Hogar,Lámpara de Techo,1,120.0,120.0,PayPal,Completado,Francia,4,false
+PED-3028,2027-02-26,CLI-070,Recurrente,Electrónica,Disco SSD 1TB,1,109.0,109.0,Tarjeta,Cancelado,Francia,,false
+PED-3029,2027-02-03,CLI-015,Nuevo,Hogar,Set de Sartenes,1,99.0,99.0,Tarjeta,Completado,Francia,7,false
+PED-3030,2027-02-03,CLI-065,Recurrente,Moda,Camiseta Negra,1,15.0,15.0,PayPal,Completado,España,2,false
+PED-3031,2027-01-17,CLI-082,Recurrente,Hogar,Hervidor Eléctrico,1,39.99,39.99,PayPal,Completado,España,2,false
+PED-3032,2027-03-30,CLI-020,Nuevo,Moda,Bufanda de Lana,1,22.0,22.0,Tarjeta,Completado,Alemania,8,false
+PED-3033,2027-01-06,CLI-046,Nuevo,Hogar,Hervidor Eléctrico,1,39.99,39.99,PayPal,Cancelado,Francia,,false
+PED-3034,2027-01-31,CLI-021,Nuevo,Accesorios,Funda iPhone,1,19.99,19.99,PayPal,Completado,Italia,8,false
+PED-3035,2027-02-01,CLI-035,Nuevo,Electrónica,Smartwatch,2,179.0,358.0,PayPal,Completado,Italia,4,false
+PED-3036,2027-01-30,CLI-029,Nuevo,Hogar,Aspiradora de Mano,1,89.0,89.0,Tarjeta,Cancelado,Alemania,,false
+PED-3037,2027-02-14,CLI-083,Recurrente,Moda,Camiseta Negra,1,15.0,15.0,PayPal,Completado,Alemania,2,true
+PED-3038,2027-02-25,CLI-045,Recurrente,Accesorios,Funda iPhone,1,19.99,19.99,Tarjeta,Completado,Italia,2,false
+PED-3039,2027-03-10,CLI-088,Nuevo,Moda,Abrigo de Invierno,1,149.0,149.0,PayPal,Completado,España,7,false
+PED-3040,2027-03-06,CLI-040,Recurrente,Moda,Abrigo de Invierno,1,149.0,149.0,Tarjeta,Completado,Italia,7,false
+PED-3041,2027-01-23,CLI-079,Recurrente,Accesorios,Funda iPhone,1,19.99,19.99,Tarjeta,Completado,Portugal,6,false
+PED-3042,2027-03-01,CLI-057,Recurrente,Hogar,Lámpara de Techo,1,120.0,120.0,Tarjeta,Completado,Alemania,6,false
+PED-3043,2027-03-21,CLI-043,Nuevo,Hogar,Hervidor Eléctrico,1,39.99,39.99,Tarjeta,Completado,España,3,false
+PED-3044,2027-03-20,CLI-099,Nuevo,Accesorios,Cartera de Piel,2,59.0,118.0,Tarjeta,Completado,Italia,5,false
+PED-3045,2027-01-19,CLI-084,Nuevo,Electrónica,Smartwatch,1,179.0,179.0,PayPal,Completado,Francia,8,false
+PED-3046,2027-01-18,CLI-060,Recurrente,Accesorios,Cartera de Piel,2,59.0,118.0,PayPal,Completado,Italia,5,false
+PED-3047,2027-02-01,CLI-082,Recurrente,Accesorios,Mochila Urbana,1,65.0,65.0,Tarjeta,Completado,Francia,4,false
+PED-3048,2027-03-11,CLI-011,Nuevo,Hogar,Lámpara de Escritorio,1,45.0,45.0,Tarjeta,Completado,España,5,false
+PED-3049,2027-03-11,CLI-060,Recurrente,Electrónica,Ratón Inalámbrico,2,25.0,50.0,PayPal,Cancelado,Portugal,,false
+PED-3050,2027-03-31,CLI-003,Recurrente,Accesorios,Funda iPhone,3,19.99,59.97,PayPal,Completado,Italia,6,false
+PED-3051,2027-03-11,CLI-078,Nuevo,Accesorios,Mochila Urbana,1,65.0,65.0,PayPal,Completado,Alemania,7,false
+PED-3052,2027-02-21,CLI-093,Nuevo,Accesorios,Mochila Urbana,4,65.0,260.0,Tarjeta,Cancelado,Portugal,,false
+PED-3053,2027-03-14,CLI-085,Nuevo,Electrónica,Smartwatch,1,179.0,179.0,PayPal,Completado,Alemania,5,false
+PED-3054,2027-02-28,CLI-042,Recurrente,Accesorios,Gorra Deportiva,2,18.0,36.0,PayPal,Completado,España,5,true
+PED-3055,2027-03-11,CLI-007,Recurrente,Hogar,Hervidor Eléctrico,1,39.99,39.99,Tarjeta,Completado,Francia,3,false
+PED-3056,2027-03-21,CLI-020,Nuevo,Hogar,Aspiradora de Mano,1,89.0,89.0,Tarjeta,Completado,Alemania,8,false
+PED-3057,2027-03-19,CLI-078,Nuevo,Hogar,Set de Sartenes,1,99.0,99.0,Tarjeta,Cancelado,Portugal,,false
+PED-3058,2027-03-28,CLI-049,Recurrente,Hogar,Cafetera Italiana,1,34.5,34.5,Tarjeta,Completado,Alemania,8,false
+PED-3059,2027-01-16,CLI-073,Nuevo,Moda,Bufanda de Lana,1,22.0,22.0,PayPal,Completado,Alemania,2,false
+PED-3060,2027-03-04,CLI-014,Recurrente,Moda,Zapatos de Vestir,2,89.0,178.0,PayPal,Completado,Portugal,7,false
+PED-3061,2027-03-10,CLI-100,Recurrente,Accesorios,Cartera de Piel,2,59.0,118.0,PayPal,Completado,Francia,8,false
+PED-3062,2027-02-05,CLI-058,Nuevo,Accesorios,Cartera de Piel,1,59.0,59.0,PayPal,Completado,Francia,5,false
+PED-3063,2027-02-03,CLI-044,Recurrente,Moda,Bufanda de Lana,1,22.0,22.0,Tarjeta,Completado,Italia,5,false
+PED-3064,2027-01-31,CLI-089,Recurrente,Accesorios,Cartera de Piel,2,59.0,118.0,Tarjeta,Completado,Italia,7,false
+PED-3065,2027-03-26,CLI-075,Recurrente,Accesorios,Gorra Deportiva,1,18.0,18.0,PayPal,Completado,Italia,4,false
+PED-3066,2027-01-30,CLI-016,Nuevo,Moda,Zapatillas Running,2,120.0,240.0,Tarjeta,Completado,Italia,4,false
+PED-3067,2027-03-09,CLI-077,Recurrente,Electrónica,Ratón Inalámbrico,1,25.0,25.0,PayPal,Completado,España,7,false
+PED-3068,2027-02-05,CLI-006,Nuevo,Moda,Chaqueta Vaquera,1,79.0,79.0,PayPal,Completado,España,6,false
+PED-3069,2027-03-03,CLI-057,Recurrente,Hogar,Cafetera Italiana,1,34.5,34.5,PayPal,Completado,España,5,false
+PED-3070,2027-03-15,CLI-081,Nuevo,Hogar,Lámpara de Escritorio,2,45.0,90.0,PayPal,Completado,Francia,2,false
+PED-3071,2027-02-23,CLI-078,Nuevo,Accesorios,Cartera de Piel,3,59.0,177.0,PayPal,Completado,Italia,4,false
+PED-3072,2027-01-08,CLI-079,Nuevo,Hogar,Hervidor Eléctrico,1,39.99,39.99,Tarjeta,Completado,Francia,6,false
+PED-3073,2027-01-01,CLI-053,Recurrente,Accesorios,Gorra Deportiva,1,18.0,18.0,PayPal,Completado,Italia,2,false
+PED-3074,2027-02-03,CLI-081,Nuevo,Accesorios,Funda iPhone,1,19.99,19.99,Tarjeta,Cancelado,Francia,,false
+PED-3075,2027-01-10,CLI-008,Nuevo,Moda,Camiseta Blanca,1,15.0,15.0,PayPal,Completado,Italia,4,false
+PED-3076,2027-03-05,CLI-057,Nuevo,Electrónica,Smartwatch,2,179.0,358.0,PayPal,Completado,Francia,7,false
+PED-3077,2027-03-15,CLI-076,Nuevo,Moda,Camiseta Negra,2,15.0,30.0,Tarjeta,Completado,Italia,4,false
+PED-3078,2027-03-16,CLI-056,Recurrente,Electrónica,Webcam HD,1,69.9,69.9,PayPal,Completado,España,8,false
+PED-3079,2027-02-22,CLI-089,Recurrente,Moda,Abrigo de Invierno,2,149.0,298.0,Tarjeta,Completado,Alemania,4,false
+PED-3080,2027-02-21,CLI-066,Nuevo,Accesorios,Cartera de Piel,1,59.0,59.0,PayPal,Completado,Italia,7,false
+PED-3081,2027-01-07,CLI-027,Recurrente,Hogar,Set de Sartenes,1,99.0,99.0,PayPal,Completado,Portugal,8,false
+PED-3082,2027-01-21,CLI-040,Nuevo,Accesorios,Funda iPhone,1,19.99,19.99,Tarjeta,Completado,España,7,false
+PED-3083,2027-03-05,CLI-092,Recurrente,Moda,Abrigo de Invierno,2,149.0,298.0,PayPal,Completado,Portugal,3,false
+PED-3084,2027-03-18,CLI-066,Nuevo,Electrónica,Tablet 10 pulgadas,2,199.0,398.0,PayPal,Completado,Portugal,4,false
+PED-3085,2027-02-06,CLI-093,Recurrente,Accesorios,Mochila Urbana,1,65.0,65.0,PayPal,Completado,Portugal,8,false
+PED-3086,2027-02-28,CLI-042,Nuevo,Hogar,Lámpara de Techo,1,120.0,120.0,PayPal,Completado,Italia,7,false
+PED-3087,2027-02-18,CLI-050,Nuevo,Accesorios,Funda iPhone,1,19.99,19.99,PayPal,Completado,Italia,2,false
+PED-3088,2027-02-28,CLI-002,Nuevo,Accesorios,Mochila Urbana,1,65.0,65.0,PayPal,Completado,Italia,7,false
+PED-3089,2027-02-12,CLI-087,Recurrente,Moda,Zapatos de Vestir,2,89.0,178.0,Tarjeta,Completado,Francia,7,false
+PED-3090,2027-02-06,CLI-030,Nuevo,Accesorios,Funda iPhone,2,19.99,39.98,Tarjeta,Completado,Alemania,2,false
+PED-3091,2027-01-08,CLI-038,Recurrente,Moda,Abrigo de Invierno,1,149.0,149.0,PayPal,Completado,Francia,3,true
+PED-3092,2027-03-20,CLI-049,Nuevo,Accesorios,Mochila Urbana,1,65.0,65.0,PayPal,Completado,España,8,false
+PED-3093,2027-02-06,CLI-087,Nuevo,Electrónica,Webcam HD,3,69.9,209.7,PayPal,Completado,Italia,7,false
+PED-3094,2027-02-08,CLI-026,Recurrente,Accesorios,Funda iPhone,1,19.99,19.99,PayPal,Completado,Alemania,2,false
+PED-3095,2027-03-26,CLI-051,Recurrente,Electrónica,Router WiFi,2,129.0,258.0,Tarjeta,Cancelado,Italia,,false
+PED-3096,2027-02-06,CLI-100,Nuevo,Moda,Sudadera Gris,1,49.9,49.9,PayPal,Completado,Francia,7,true
+PED-3097,2027-03-22,CLI-083,Nuevo,Moda,Zapatos de Vestir,1,89.0,89.0,PayPal,Completado,España,4,false
+PED-3098,2027-02-23,CLI-023,Nuevo,Hogar,Tostadora,1,29.9,29.9,PayPal,Completado,Alemania,8,false
+PED-3099,2027-03-03,CLI-038,Recurrente,Electrónica,Webcam HD,3,69.9,209.7,Tarjeta,Completado,Francia,8,false
+PED-3100,2027-03-28,CLI-051,Recurrente,Electrónica,Smartwatch,1,179.0,179.0,Tarjeta,Completado,Alemania,6,false
+PED-3101,2027-03-23,CLI-048,Nuevo,Hogar,Aspiradora de Mano,1,89.0,89.0,PayPal,Cancelado,Francia,,false
+PED-3102,2027-03-24,CLI-009,Recurrente,Moda,Abrigo de Invierno,1,149.0,149.0,Tarjeta,Cancelado,Alemania,,false
+PED-3103,2027-03-05,CLI-015,Nuevo,Hogar,Lámpara de Techo,1,120.0,120.0,PayPal,Completado,Portugal,5,false
+PED-3104,2027-01-20,CLI-054,Nuevo,Accesorios,Cartera de Piel,3,59.0,177.0,PayPal,Completado,Alemania,3,false
+PED-3105,2027-01-31,CLI-047,Nuevo,Moda,Bufanda de Lana,3,22.0,66.0,PayPal,Completado,Alemania,3,false
+PED-3106,2027-02-28,CLI-012,Nuevo,Electrónica,Auriculares Bluetooth,2,59.99,119.98,Tarjeta,Cancelado,Portugal,,false
+PED-3107,2027-01-27,CLI-009,Nuevo,Hogar,Tostadora,2,29.9,59.8,PayPal,Completado,Portugal,2,false
+PED-3108,2027-01-19,CLI-017,Recurrente,Hogar,Cafetera Italiana,1,34.5,34.5,Tarjeta,Completado,Alemania,8,false
+PED-3109,2027-03-17,CLI-042,Nuevo,Hogar,Set de Sartenes,1,99.0,99.0,PayPal,Completado,España,5,false
+PED-3110,2027-02-16,CLI-066,Nuevo,Accesorios,Mochila Urbana,3,65.0,195.0,Tarjeta,Completado,Portugal,4,false
+PED-3111,2027-01-04,CLI-008,Recurrente,Accesorios,Cartera de Piel,1,59.0,59.0,PayPal,Completado,Italia,2,false
+PED-3112,2027-02-11,CLI-078,Nuevo,Electrónica,Monitor 27 pulgadas,1,249.99,249.99,PayPal,Completado,Portugal,6,false
+PED-3113,2027-03-06,CLI-078,Recurrente,Electrónica,Teclado Mecánico,2,89.9,179.8,Tarjeta,Completado,Francia,5,false
+PED-3114,2027-02-28,CLI-052,Recurrente,Electrónica,Altavoz Portátil,1,99.99,99.99,PayPal,Completado,Francia,7,false
+PED-3115,2027-01-09,CLI-012,Nuevo,Electrónica,Smartwatch,1,179.0,179.0,PayPal,Completado,Portugal,2,false
+PED-3116,2027-03-13,CLI-072,Recurrente,Electrónica,Smartwatch,1,179.0,179.0,PayPal,Completado,España,4,false
+PED-3117,2027-02-15,CLI-014,Nuevo,Hogar,Hervidor Eléctrico,1,39.99,39.99,Tarjeta,Completado,Portugal,4,false
+PED-3118,2027-02-05,CLI-074,Nuevo,Accesorios,Funda iPhone,1,19.99,19.99,PayPal,Completado,Alemania,7,false
+PED-3119,2027-02-13,CLI-045,Nuevo,Hogar,Tostadora,1,29.9,29.9,PayPal,Completado,España,2,false
+PED-3120,2027-01-28,CLI-049,Recurrente,Accesorios,Gorra Deportiva,1,18.0,18.0,PayPal,Completado,Portugal,6,false
+PED-3121,2027-01-07,CLI-020,Nuevo,Electrónica,Teclado Mecánico,1,89.9,89.9,PayPal,Completado,Italia,5,false
+PED-3122,2027-03-07,CLI-015,Recurrente,Accesorios,Funda iPhone,1,19.99,19.99,PayPal,Completado,Alemania,2,false
+PED-3123,2027-03-18,CLI-008,Nuevo,Hogar,Set de Sartenes,3,99.0,297.0,Tarjeta,Completado,Alemania,4,false
+PED-3124,2027-03-05,CLI-096,Recurrente,Hogar,Lámpara de Escritorio,1,45.0,45.0,Tarjeta,Completado,Alemania,2,false
+PED-3125,2027-01-06,CLI-056,Nuevo,Accesorios,Funda iPhone,2,19.99,39.98,PayPal,Completado,Italia,4,false
+PED-3126,2027-01-03,CLI-042,Nuevo,Accesorios,Gorra Deportiva,1,18.0,18.0,Tarjeta,Completado,Portugal,5,false
+PED-3127,2027-02-20,CLI-040,Recurrente,Hogar,Set de Sartenes,2,99.0,198.0,Tarjeta,Completado,España,6,false
+PED-3128,2027-02-14,CLI-045,Nuevo,Hogar,Cafetera Italiana,1,34.5,34.5,Tarjeta,Completado,Francia,8,false
+PED-3129,2027-01-10,CLI-023,Recurrente,Accesorios,Cartera de Piel,1,59.0,59.0,PayPal,Completado,Alemania,3,false
+PED-3130,2027-03-02,CLI-057,Recurrente,Moda,Camiseta Negra,1,15.0,15.0,Tarjeta,Completado,Italia,2,true
+PED-3131,2027-02-06,CLI-010,Nuevo,Accesorios,Cartera de Piel,1,59.0,59.0,Tarjeta,Completado,Portugal,7,false
+PED-3132,2027-03-19,CLI-061,Nuevo,Electrónica,Webcam HD,1,69.9,69.9,PayPal,Cancelado,España,,false
+PED-3133,2027-03-06,CLI-083,Nuevo,Electrónica,Ratón Inalámbrico,2,25.0,50.0,PayPal,Completado,Portugal,3,false
+PED-3134,2027-02-06,CLI-050,Recurrente,Moda,Camiseta Negra,2,15.0,30.0,PayPal,Completado,España,6,false
+PED-3135,2027-02-06,CLI-033,Nuevo,Moda,Zapatillas Running,1,120.0,120.0,Tarjeta,Cancelado,Alemania,,false
+PED-3136,2027-03-25,CLI-090,Recurrente,Hogar,Lámpara de Techo,2,120.0,240.0,Tarjeta,Completado,Italia,7,false
+PED-3137,2027-01-17,CLI-086,Nuevo,Accesorios,Gorra Deportiva,1,18.0,18.0,PayPal,Completado,Francia,4,false
+PED-3138,2027-03-04,CLI-025,Nuevo,Hogar,Lámpara de Escritorio,1,45.0,45.0,Tarjeta,Completado,Portugal,8,false
+PED-3139,2027-03-09,CLI-005,Recurrente,Hogar,Lámpara de Techo,1,120.0,120.0,Tarjeta,Completado,Portugal,8,false
+PED-3140,2027-02-26,CLI-006,Recurrente,Moda,Sudadera Gris,3,49.9,149.7,PayPal,Completado,Italia,3,false
+PED-3141,2027-02-09,CLI-061,Nuevo,Moda,Zapatos de Vestir,1,89.0,89.0,PayPal,Completado,Portugal,6,false
+PED-3142,2027-01-21,CLI-026,Nuevo,Moda,Camiseta Negra,1,15.0,15.0,PayPal,Completado,España,7,false
+PED-3143,2027-01-16,CLI-037,Nuevo,Hogar,Set de Sartenes,1,99.0,99.0,Tarjeta,Completado,España,3,false
+PED-3144,2027-02-14,CLI-004,Recurrente,Electrónica,Smartwatch,1,179.0,179.0,Tarjeta,Completado,España,4,false
+PED-3145,2027-02-10,CLI-013,Recurrente,Hogar,Lámpara de Escritorio,1,45.0,45.0,PayPal,Completado,Francia,8,false
+PED-3146,2027-02-27,CLI-079,Nuevo,Electrónica,Auriculares Bluetooth,1,59.99,59.99,Tarjeta,Completado,Portugal,6,false
+PED-3147,2027-02-06,CLI-031,Recurrente,Electrónica,Auriculares Bluetooth,1,59.99,59.99,PayPal,Completado,Italia,6,false
+PED-3148,2027-03-22,CLI-066,Nuevo,Hogar,Set de Sartenes,1,99.0,99.0,PayPal,Completado,Italia,3,false
+PED-3149,2027-01-11,CLI-068,Recurrente,Electrónica,Disco SSD 1TB,1,109.0,109.0,Tarjeta,Completado,Italia,2,false
+PED-3150,2027-02-17,CLI-033,Nuevo,Moda,Zapatillas Running,1,120.0,120.0,Tarjeta,Completado,Alemania,3,true
+PED-3151,2027-03-11,CLI-044,Nuevo,Accesorios,Cartera de Piel,1,59.0,59.0,Tarjeta,Completado,Italia,2,false
+PED-3152,2027-01-06,CLI-026,Nuevo,Moda,Camiseta Blanca,1,15.0,15.0,PayPal,Completado,Francia,4,false
+PED-3153,2027-01-07,CLI-084,Recurrente,Moda,Zapatillas Running,2,120.0,240.0,PayPal,Completado,Italia,5,false
+PED-3154,2027-01-24,CLI-064,Recurrente,Moda,Bufanda de Lana,1,22.0,22.0,Tarjeta,Completado,España,5,false
+PED-3155,2027-01-24,CLI-070,Recurrente,Moda,Zapatillas Running,1,120.0,120.0,PayPal,Completado,Portugal,7,false
+PED-3156,2027-03-30,CLI-057,Recurrente,Accesorios,Funda iPhone,2,19.99,39.98,PayPal,Completado,Italia,4,false
+PED-3157,2027-01-08,CLI-010,Recurrente,Moda,Bufanda de Lana,2,22.0,44.0,Tarjeta,Cancelado,Francia,,false
+PED-3158,2027-03-19,CLI-087,Recurrente,Electrónica,Monitor 27 pulgadas,1,249.99,249.99,PayPal,Completado,Portugal,2,false
+PED-3159,2027-03-28,CLI-058,Recurrente,Moda,Zapatos de Vestir,2,89.0,178.0,Tarjeta,Completado,Italia,4,false
+PED-3160,2027-02-01,CLI-015,Nuevo,Hogar,Aspiradora de Mano,1,89.0,89.0,Tarjeta,Completado,Alemania,7,false
+PED-3161,2027-03-20,CLI-037,Recurrente,Hogar,Cafetera Italiana,1,34.5,34.5,Tarjeta,Completado,Italia,2,false
+PED-3162,2027-02-10,CLI-086,Recurrente,Electrónica,Disco SSD 1TB,1,109.0,109.0,PayPal,Completado,Francia,8,false
+PED-3163,2027-01-29,CLI-016,Nuevo,Hogar,Lámpara de Escritorio,2,45.0,90.0,Tarjeta,Completado,Portugal,4,false
+PED-3164,2027-03-12,CLI-017,Nuevo,Electrónica,Tablet 10 pulgadas,1,199.0,199.0,PayPal,Completado,Italia,8,false
+PED-3165,2027-01-17,CLI-041,Nuevo,Accesorios,Cartera de Piel,1,59.0,59.0,PayPal,Completado,Portugal,7,false
+PED-3166,2027-01-17,CLI-056,Nuevo,Electrónica,Disco SSD 1TB,1,109.0,109.0,Tarjeta,Completado,Francia,4,false
+PED-3167,2027-03-08,CLI-037,Nuevo,Moda,Sudadera Gris,1,49.9,49.9,PayPal,Completado,Alemania,6,false
+PED-3168,2027-03-06,CLI-083,Nuevo,Hogar,Lámpara de Escritorio,1,45.0,45.0,PayPal,Completado,Portugal,2,false
+PED-3169,2027-01-04,CLI-011,Nuevo,Moda,Sudadera Gris,2,49.9,99.8,PayPal,Completado,España,5,false
+PED-3170,2027-03-11,CLI-038,Recurrente,Accesorios,Mochila Urbana,2,65.0,130.0,PayPal,Completado,España,7,false
+PED-3171,2027-02-26,CLI-054,Recurrente,Accesorios,Mochila Urbana,1,65.0,65.0,Tarjeta,Completado,Alemania,7,false
+PED-3172,2027-02-14,CLI-052,Nuevo,Moda,Bufanda de Lana,1,22.0,22.0,PayPal,Completado,España,4,false
+PED-3173,2027-01-19,CLI-013,Nuevo,Moda,Abrigo de Invierno,2,149.0,298.0,PayPal,Completado,Francia,8,false
+PED-3174,2027-03-15,CLI-093,Recurrente,Hogar,Tostadora,1,29.9,29.9,PayPal,Completado,Alemania,5,true
+PED-3175,2027-02-20,CLI-065,Recurrente,Hogar,Lámpara de Escritorio,1,45.0,45.0,Tarjeta,Completado,Italia,6,false
+PED-3176,2027-03-25,CLI-087,Recurrente,Moda,Bufanda de Lana,1,22.0,22.0,Tarjeta,Completado,Alemania,7,false
+PED-3177,2027-02-21,CLI-047,Nuevo,Accesorios,Funda iPhone,1,19.99,19.99,Tarjeta,Completado,Alemania,2,false
+PED-3178,2027-02-27,CLI-098,Recurrente,Electrónica,Monitor 27 pulgadas,3,249.99,749.97,PayPal,Completado,Alemania,6,false
+PED-3179,2027-01-19,CLI-026,Recurrente,Electrónica,Auriculares Bluetooth,1,59.99,59.99,PayPal,Completado,Portugal,5,false
+PED-3180,2027-03-07,CLI-018,Recurrente,Moda,Chaqueta Vaquera,1,79.0,79.0,PayPal,Completado,Portugal,8,false
+PED-3181,2027-03-04,CLI-091,Recurrente,Accesorios,Funda iPhone,1,19.99,19.99,Tarjeta,Cancelado,Portugal,,false
+PED-3182,2027-02-09,CLI-093,Nuevo,Accesorios,Gorra Deportiva,3,18.0,54.0,Tarjeta,Completado,Portugal,5,false
+PED-3183,2027-03-22,CLI-093,Recurrente,Hogar,Tostadora,1,29.9,29.9,Tarjeta,Completado,España,3,true
+PED-3184,2027-02-10,CLI-054,Nuevo,Accesorios,Mochila Urbana,1,65.0,65.0,PayPal,Completado,España,7,false
+PED-3185,2027-01-27,CLI-072,Recurrente,Accesorios,Cartera de Piel,1,59.0,59.0,Tarjeta,Completado,Portugal,4,false
+PED-3186,2027-03-28,CLI-099,Recurrente,Accesorios,Mochila Urbana,3,65.0,195.0,PayPal,Completado,Francia,4,false
+PED-3187,2027-04-01,CLI-027,Recurrente,Moda,Zapatos de Vestir,1,89.0,89.0,PayPal,Completado,Portugal,7,false
+PED-3188,2027-02-20,CLI-045,Nuevo,Moda,Camiseta Negra,1,15.0,15.0,Tarjeta,Completado,Italia,7,false
+PED-3189,2027-03-03,CLI-028,Nuevo,Moda,Bufanda de Lana,1,22.0,22.0,Tarjeta,Completado,Portugal,3,false
+PED-3190,2027-03-27,CLI-068,Nuevo,Hogar,Cafetera Italiana,1,34.5,34.5,PayPal,Completado,España,7,false
+PED-3191,2027-01-01,CLI-071,Nuevo,Accesorios,Cartera de Piel,1,59.0,59.0,Tarjeta,Completado,Alemania,4,false
+PED-3192,2027-01-08,CLI-099,Nuevo,Hogar,Lámpara de Techo,2,120.0,240.0,Tarjeta,Cancelado,Francia,,false
+PED-3193,2027-02-23,CLI-023,Nuevo,Accesorios,Cartera de Piel,1,59.0,59.0,PayPal,Completado,España,4,false
+PED-3194,2027-01-14,CLI-043,Recurrente,Accesorios,Cartera de Piel,2,59.0,118.0,Tarjeta,Completado,Italia,4,false
+PED-3195,2027-01-15,CLI-043,Nuevo,Accesorios,Gorra Deportiva,2,18.0,36.0,Tarjeta,Completado,Alemania,6,false
+PED-3196,2027-01-25,CLI-023,Recurrente,Accesorios,Gorra Deportiva,1,18.0,18.0,Tarjeta,Completado,Francia,5,false
+PED-3197,2027-02-01,CLI-001,Recurrente,Accesorios,Mochila Urbana,1,65.0,65.0,PayPal,Cancelado,Alemania,,false
+PED-3198,2027-03-16,CLI-093,Nuevo,Moda,Pantalón Chino,1,55.0,55.0,Tarjeta,Completado,Italia,4,true
+PED-3199,2027-03-29,CLI-065,Recurrente,Electrónica,Tablet 10 pulgadas,1,199.0,199.0,Tarjeta,Completado,Francia,5,false

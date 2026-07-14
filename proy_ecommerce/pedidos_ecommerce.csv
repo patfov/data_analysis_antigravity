@@ -1,0 +1,31 @@
+id_pedido,fecha_pedido,id_cliente,segmento_cliente,categoria_producto,nombre_producto,unidades,precio_unitario_usd,importe_total_usd,metodo_pago,estado_pedido,pais_envio,dias_envio,devuelto
+PED-2001,2027-01-03,CLI-001,Nuevo,Electrónica,Auriculares Bluetooth,1,59.99,59.99,Tarjeta,Completado,España,3,false
+PED-2002,2027-01-04,CLI-002,Recurrente,Hogar,Cafetera Italiana,1,34.50,34.50,PayPal,Completado,España,4,false
+PED-2003,2027-01-04,CLI-003,Nuevo,Moda,Camiseta Negra,2,15.00,30.00,Tarjeta,Completado,Francia,5,false
+PED-2004,2027-01-05,CLI-004,Nuevo,Electrónica,Teclado Mecánico,1,89.90,89.90,Tarjeta,Completado,Alemania,6,false
+PED-2005,2027-01-06,CLI-001,Recurrente,Accesorios,Funda iPhone,1,19.99,19.99,Tarjeta,Completado,España,2,false
+PED-2006,2027-01-07,CLI-005,Nuevo,Moda,Zapatillas Running,1,120.00,120.00,PayPal,Completado,Italia,7,false
+PED-2007,2027-01-08,CLI-006,Nuevo,Hogar,Lámpara de Escritorio,1,45.00,45.00,Tarjeta,Completado,España,3,false
+PED-2008,2027-01-08,CLI-007,Recurrente,Electrónica,Monitor 27 pulgadas,1,249.99,249.99,Tarjeta,Completado,Portugal,5,false
+PED-2009,2027-01-09,CLI-008,Nuevo,Moda,Chaqueta Vaquera,1,79.00,79.00,PayPal,Completado,España,4,true
+PED-2010,2027-01-10,CLI-002,Recurrente,Hogar,Set de Sartenes,1,99.00,99.00,Tarjeta,Completado,España,3,false
+PED-2011,2027-01-11,CLI-009,Nuevo,Electrónica,Ratón Inalámbrico,2,25.00,50.00,Tarjeta,Completado,Francia,5,false
+PED-2012,2027-01-12,CLI-010,Nuevo,Moda,Sudadera Gris,1,49.90,49.90,PayPal,Completado,España,4,false
+PED-2013,2027-01-13,CLI-011,Recurrente,Accesorios,Mochila Urbana,1,65.00,65.00,Tarjeta,Completado,España,3,false
+PED-2014,2027-01-14,CLI-012,Nuevo,Electrónica,Tablet 10 pulgadas,1,199.00,199.00,Tarjeta,Completado,Italia,6,false
+PED-2015,2027-01-15,CLI-003,Recurrente,Moda,Camiseta Blanca,3,15.00,45.00,Tarjeta,Completado,Francia,4,false
+PED-2016,2027-01-16,CLI-013,Nuevo,Hogar,Aspiradora de Mano,1,89.00,89.00,PayPal,Completado,España,5,false
+PED-2017,2027-01-17,CLI-014,Nuevo,Electrónica,Altavoz Portátil,1,99.99,99.99,Tarjeta,Completado,Portugal,4,false
+PED-2018,2027-01-18,CLI-015,Nuevo,Moda,Pantalón Chino,1,55.00,55.00,Tarjeta,Completado,España,3,true
+PED-2019,2027-01-19,CLI-006,Recurrente,Hogar,Lámpara de Techo,1,120.00,120.00,PayPal,Completado,España,6,false
+PED-2020,2027-01-20,CLI-016,Nuevo,Electrónica,Smartwatch,1,179.00,179.00,Tarjeta,Completado,Alemania,7,false
+PED-2021,2027-01-21,CLI-017,Nuevo,Moda,Abrigo de Invierno,1,149.00,149.00,Tarjeta,Completado,España,5,false
+PED-2022,2027-01-22,CLI-018,Nuevo,Accesorios,Gorra Deportiva,2,18.00,36.00,PayPal,Completado,España,2,false
+PED-2023,2027-01-23,CLI-019,Recurrente,Electrónica,Webcam HD,1,69.90,69.90,Tarjeta,Completado,Francia,4,false
+PED-2024,2027-01-24,CLI-020,Nuevo,Hogar,Hervidor Eléctrico,1,39.99,39.99,Tarjeta,Cancelado,España,,false
+PED-2025,2027-01-25,CLI-002,Recurrente,Electrónica,Disco SSD 1TB,1,109.00,109.00,Tarjeta,Completado,España,3,false
+PED-2026,2027-01-26,CLI-021,Nuevo,Moda,Zapatos de Vestir,1,89.00,89.00,PayPal,Completado,Italia,6,false
+PED-2027,2027-01-27,CLI-022,Nuevo,Hogar,Tostadora,1,29.90,29.90,Tarjeta,Completado,España,2,false
+PED-2028,2027-01-28,CLI-023,Nuevo,Electrónica,Router WiFi,1,129.00,129.00,Tarjeta,Completado,Alemania,5,false
+PED-2029,2027-01-29,CLI-024,Recurrente,Moda,Bufanda de Lana,2,22.00,44.00,PayPal,Completado,España,3,false
+PED-2030,2027-01-30,CLI-025,Nuevo,Accesorios,Cartera de Piel,1,59.00,59.00,Tarjeta,Completado,España,3,false
