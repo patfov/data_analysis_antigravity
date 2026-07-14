@@ -29,28 +29,13 @@ This project implements metrics and KPIs to measure development workflow speed, 
 
 ---
 
-## ⚙️ How to Run Locally
+## ⚙️ Environment and Dependencies
 
-### Prerequisites
-* Python 3.10+
-* Jupyter Notebook / JupyterLab
+This project is configured to run inside a Python virtual environment (`.venv`) using the following core libraries for data processing, analysis, and visualization:
 
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/patfov/data_analysis_antigravity.git
-   cd data_analysis_antigravity
-   ```
-2. Create and activate a virtual environment:
-   ```bash
-   python -m venv .venv
-   # On Windows:
-   .venv\Scripts\activate
-   # On macOS/Linux:
-   source .venv/bin/activate
-   ```
-3. Install dependencies and open Jupyter to explore:
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   jupyter lab
-   ```
+* **pandas**: For data manipulation, cleaning, and analysis.
+* **numpy**: For numerical computing and mathematical operations.
+* **matplotlib**: For generating static and interactive visualizations.
+* **seaborn**: For high-level statistical data visualization.
+* **jupyter / jupyterlab**: For interactive development and exploratory data analysis (EDA).
+
